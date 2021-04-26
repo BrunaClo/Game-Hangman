@@ -1,10 +1,10 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="50"/>
 
            
 # Hangman 
-*[Israel & Bruna]*
+*Israel & Bruna*
 
-*[Data Analysis Full Time FEB 2021, Paris, February, 8, 2021]*
+*Data Analysis Full Time FEB 2021, Paris, February, 8, 2021*
 
 ## Content
 - [Project Description](#project-description)
