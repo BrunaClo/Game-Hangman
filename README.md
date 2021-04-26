@@ -14,13 +14,9 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
-
 This project consists in creating an online game of Hangman with python. 
 
 ## Rules
-Briefly describe the rules of the game.
-
 The system will provide an aleatory word. 
 The pllayer try to guess the word by guessing one letter at a time or by guessing the entire word.
 The system will display a number of dashes equivalent to the number of letters in the word.  
@@ -40,13 +36,10 @@ PPT elaboration for the presentation.
 Completion of the README file.  
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
 We create a repository that was forked and avaible for the both.
 One file for the game code was created but susceptible to merging. 
 We worked in differents files to avoid conflicts but in constant contact to understand each other works.
  
-What does your repository look like? Explain your folder and file structure.
 
 Three folders containing :
 (1) one version of the game code.
